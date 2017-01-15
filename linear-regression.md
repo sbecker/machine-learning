@@ -40,4 +40,4 @@ y = c + b*x
 ## Resources
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Linear_regression)
 - [Lesson 1: Simple Linear Regression | STAT 501](https://onlinecourses.science.psu.edu/stat501/node/250)
-- [What is Linear Regression?]http://www.statisticssolutions.com/what-is-linear-regression/
+- [What is Linear Regression?](http://www.statisticssolutions.com/what-is-linear-regression/)
