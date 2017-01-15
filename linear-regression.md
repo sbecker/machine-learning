@@ -35,11 +35,35 @@ y = c + b*x
 - b = regression coefficients
 - x = dependent variable
 
+For "simple" single variable linear regression we can use the standard `y = mx + b` line equation.
+
+```
+y = m*x + b
+```
+
+It's the same as above but you might recognize it from high school math class.
+
+- y = y value of the line
+- x = x value of the line
+- m = the slope 
+- b = the y intercept
+
+In simple linear regression, we are trying to find the best slope (m) and y-intercept (b).
+
 ## Linear Regression Analysis
 
 1. analyze correlation and directionality of data
 2. estimate the model / fit the line
 3. evaluate validity and usefulness of model
+
+## How to measure line fit
+
+1. Visually: plot the line on the scatter plot.
+2. Measure the "error". The error is how far off the closest point on the line is from a given point in the dataset. Iterate through each x/y point in the dataset and sum the square distances between ecah point's y value and the candidate line's y value. (mx + b). This process is encapsulated in a **cost function**.
+
+## How to optimize line fit
+
+- Linear Regression!
 
 ## Resources
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Linear_regression)
