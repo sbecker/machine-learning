@@ -24,6 +24,16 @@ alt="Growing Use of Deep Learning at Google" width="500" /></a>
 - [Google Brain](https://research.google.com/teams/brain/)
 - [OpenAI](https://openai.com)
 
+## Competitions / Learning Platforms
+
+- [Kaggle](https://www.kaggle.com/)
+- [OpenAI Gym](https://gym.openai.com/)
+- [OpenAI Universe](https://universe.openai.com/)
+
+## News
+
+- [KDNuggets](http://www.kdnuggets.com/)
+
 ## Reference
 
 - [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
