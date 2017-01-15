@@ -63,7 +63,7 @@ In simple linear regression, we are trying to find the best slope (m) and y-inte
 
 ## How to optimize line fit
 
-- Linear Regression!
+- Use [Gradient Descent](https://github.com/sbecker/machine-learning/blob/master/gradient-descent.md)!
 
 ## Resources
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Linear_regression)
