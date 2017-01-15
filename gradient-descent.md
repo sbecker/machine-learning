@@ -4,6 +4,8 @@ Gradient Descent is an optimization algorithm. It "minimizes" functions. Given a
 
 ![Gradient Descent](https://raw.githubusercontent.com/sbecker/machine-learning/master/images/gradient-descent.png)
 
+This is a visualization of gradient descent. The landscape above is a depiction of many possible solutions for a simple linear regression problem. The altitude indicates the error rate. The lower the better. The lines chart the process of gradient descent. It starts from any given point, and takes steps down the slope until it finds a local minimum, where it can no longer descend.
+
 # How it works
 
 For simple, single variable linear regression:
