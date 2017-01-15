@@ -26,9 +26,9 @@ alt="Growing Use of Deep Learning at Google" width="500" /></a>
 
 ## Competitions / Learning Platforms
 
-- [Kaggle](https://www.kaggle.com/)
-- [OpenAI Gym](https://gym.openai.com/)
-- [OpenAI Universe](https://universe.openai.com/)
+- [Kaggle](https://www.kaggle.com/): runs competitions, hosts datasets, tutorials and discussion forums
+- [OpenAI Gym](https://gym.openai.com/): a toolkit for developing and comparing reinforcement learning (RL) algorithms
+- [OpenAI Universe](https://universe.openai.com/): a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications - allows an AI agent to use a computer like a human does: by looking at screen pixels and operating a virtual keyboard and mouse
 
 ## News
 
