@@ -6,6 +6,9 @@ Adventures in learning... machine learning!
 
 It's only the beginning of the tidle wave:
 
+<a href="http://matroid.com/scaledml/slides/jeff.pdf" target="_blank"><img src="https://github.com/sbecker/machine-learning/blob/master/images/growing-use-of-deep-learning-at-google.png?raw=true" 
+alt="Growing Use of Deep Learning at Google" width="320" /></a>
+
 ![Growing Use of Deep Learning at Google](https://github.com/sbecker/machine-learning/blob/master/images/growing-use-of-deep-learning-at-google.png?raw=true)
 
 ## Terminology
