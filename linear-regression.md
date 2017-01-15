@@ -36,3 +36,8 @@ y = c + b*x
 1. analyze correlation and directionality of data
 2. estimate the model / fit the line
 3. evaluate validity and usefulness of model
+
+## Resources
+- [Wikipedia Article](https://en.wikipedia.org/wiki/Linear_regression)
+- [Lesson 1: Simple Linear Regression | STAT 501](https://onlinecourses.science.psu.edu/stat501/node/250)
+- [What is Linear Regression?]http://www.statisticssolutions.com/what-is-linear-regression/
