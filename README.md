@@ -2,6 +2,12 @@
 
 Adventures in learning... machine learning!
 
+## Why
+
+It's only the beginning of the tidle wave:
+
+![Growing Use of Deep Learning at Google](https://github.com/sbecker/machine-learning/blob/master/images/growing-use-of-deep-learning-at-google.png?raw=true)
+
 ## Terminology
 
 - [Linear Regression](https://github.com/sbecker/machine-learning/blob/master/linear-regression.md)
