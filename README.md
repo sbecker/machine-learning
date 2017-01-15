@@ -18,6 +18,12 @@ alt="Growing Use of Deep Learning at Google" width="500" /></a>
 - [MNIST](http://yann.lecun.com/exdb/mnist/) - a popular dataset for benchmarking ML algorithms - a database of handwritten digits - training set of 60k, test set of 10k
 - [ImageNet](http://image-net.org/) - 14.2 million classified images - thousands of categories, ~500 images per category
 
+## Organizations
+
+- [Deep Mind](https://deepmind.com/)
+- [Google Brain](https://research.google.com/teams/brain/)
+- [OpenAI](https://openai.com)
+
 ## Reference
 
 - [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
