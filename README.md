@@ -4,7 +4,7 @@ Adventures in learning... machine learning!
 
 ## Why
 
-It's only the beginning of the tidle wave:
+It's only the beginning of the tidal wave:
 
 <a href="http://matroid.com/scaledml/slides/jeff.pdf" target="_blank"><img src="https://github.com/sbecker/machine-learning/blob/master/images/growing-use-of-deep-learning-at-google.png?raw=true" 
 alt="Growing Use of Deep Learning at Google" width="500" /></a>
