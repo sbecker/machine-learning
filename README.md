@@ -12,6 +12,12 @@ alt="Growing Use of Deep Learning at Google" width="500" /></a>
 ## Terminology
 
 - [Linear Regression](https://github.com/sbecker/machine-learning/blob/master/linear-regression.md)
+- [Gradient Descent](https://github.com/sbecker/machine-learning/blob/master/gradient-descent.md)
+
+## Courses
+
+- [FastAI: Practical Deep Learning for Coders, Part 1](http://course.fast.ai/)
+- [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 ## Datasets
 
