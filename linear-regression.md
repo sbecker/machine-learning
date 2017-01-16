@@ -70,3 +70,4 @@ In simple linear regression, we are trying to find the best slope (m) and y-inte
 - [Lesson 1: Simple Linear Regression | STAT 501](https://onlinecourses.science.psu.edu/stat501/node/250)
 - [What is Linear Regression?](http://www.statisticssolutions.com/what-is-linear-regression/)
 - [Regression Analysis](https://en.wikipedia.org/wiki/Regression_analysis)
+- [Introduction to linear regression analysis]http://people.duke.edu/~rnau/regintro.htm
