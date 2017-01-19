@@ -58,3 +58,8 @@ If hypothesis for predicting housing prices from square feet x is `hϴ = -40 x 0
 | 1 1534 |              |  343.5 | (-40x1 + 0.25x1534 = 343.5)
 | 1 852  |              |    173 | (-40x1 + 0.25x852  = 173)
 ```
+
+In a software library, this one line could look like
+```
+prediction = dataMatrix * parameters
+```
