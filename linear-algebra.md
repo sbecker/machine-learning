@@ -37,3 +37,13 @@ Multiply a single number by every element in a matrix.
 3 x | 2 5 | = | 6 15 |
     | 3 1 |   | 9  3 |
 ```
+
+## Matrix Vector Multiplication
+Multiply a matrix with m rows and n columns by a vector with n rows. Matrix must have same number of columns as vector has rows. Outputs a vector with same number of columns as the matrix had rows (m).
+
+```
+| 1 3 |   | 1 |   | 16 | (1x1 + 3x5 = 16)
+| 4 0 | x | 5 | = |  4 | (4x1 + 0x5 = 4)
+| 2 1 |           |  7 | (2x1 + 1x5 = 7)
+```
+
