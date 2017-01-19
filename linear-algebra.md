@@ -23,7 +23,7 @@ A 4 x 1 vector, or 4-dimensional vector:
 
 ## Matrix Addition
 
-You add the elements at each position. You can only add matrixes of the same size and shape:
+You add the elements at each position. You can only add matrices of the same size and shape:
 ```
 | 1 0 |   | 4 0.5 |   | 5 0.5 |
 | 2 5 | + | 2   5 | = | 4  10 |
@@ -83,3 +83,11 @@ Process: Take every column of matrix B as a vector and multiply it by matrix A. 
 ```
 predictions = dataMatrix * parameters (of all hypthoses)
 ```
+
+## Matrix Multiplication Properties
+
+[Commutative property](https://en.wikipedia.org/wiki/Commutative_property): changing the order of the operands does not change the result.
+
+Normal multiplication IS commutative: `3 x 2 == 2 x 3`
+
+Assuming A and B are matrices, `A x B != B x A` - not commutative like normal matrix multiplication.
