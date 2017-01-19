@@ -90,4 +90,10 @@ predictions = dataMatrix * parameters (of all hypthoses)
 
 Normal multiplication IS commutative: `3 x 2 == 2 x 3`
 
-Assuming A and B are matrices, `A x B != B x A` - not commutative like normal matrix multiplication.
+Assuming A and B are matrices, `A x B != B x A` - IS NOT commutative like normal matrix multiplication.
+
+[Associative property](https://en.wikipedia.org/wiki/Associative_property): rearranging the parentheses in a multiplication will not change its value
+
+Normal multiplication is associative: `2 x (3 x 4) == (2 x 3) x 4 = 24`
+
+Matrix multiplication is associative: `A x (B x C) == (A x B) x C` 
