@@ -53,10 +53,10 @@ If hypothesis for predicting housing prices from square feet x is `hϴ = -40 x 0
 
 ```
 
-| 1 2104 |   |  -40 |   |    486 | (-40x1 + 0.25x2104 = 486)
-| 1 1416 | x | 0.25 | = |    314 | (-40x1 + 0.25x1416 = 314)
-| 1 1534 |              |  343.5 | (-40x1 + 0.25x1534 = 343.5)
-| 1 852  |              |    173 | (-40x1 + 0.25x852  = 173)
+| 1 2104 |   |  -40 |   | 486 | (-40x1 + 0.25x2104 = 486)
+| 1 1416 | x | 0.25 | = | 314 | (-40x1 + 0.25x1416 = 314)
+| 1 1534 |              | 344 | (-40x1 + 0.25x1534 = 343.5)
+| 1 852  |              | 173 | (-40x1 + 0.25x852  = 173)
 ```
 
 In a software library, this one line could look like
@@ -66,4 +66,16 @@ prediction = dataMatrix * parameters
 
 ## Matrix Matrix Multiplication
 
-Multiply `m x n` matrix (m rows, n columns) by `n x o` matrix (n rows, o columns). Number of **columns** in **first** matrix must match the number of **rows** in the **second** matrix.
+Multiply `m x n` matrix (m rows, n columns) A by `n x o` matrix (n rows, o columns) B. Number of **columns** in **first** matrix must match the number of **rows** in the **second** matrix. Output will be an `m x o` matrix C.
+
+Process: Take every column of matrix B as a vector and multiply it by matrix A. Resulting vector becomes corresponding column in output matrix C.
+
+**Trick for calculating all predicted values of many hyptheses at once, in one line of code**
+
+```
+  dataset       hϴ1 hϴ2  hϴ3        p1  p2  p3
+| 1 2104 |   |  -40 200 -150 |   | 486 410 692 |
+| 1 1416 | x | 0.25 0.1  0.4 | = | 314 342 416 |
+| 1 1534 |                       | 344 353 464 |
+| 1 852  |                       | 173 285 191 |
+```
