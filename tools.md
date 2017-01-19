@@ -8,7 +8,6 @@
 - [Keras](https://keras.io/): Deep Learning library for Theano and TensorFlow
 - [Kur](http://kur.deepgram.com/): Descriptive Deep Learning
 - [PyTorch](http://pytorch.org/): GPU accelerated deep learning framework for Python
-
 - [Theano](http://www.deeplearning.net/software/theano/index.html): Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
 
 ## Lua
