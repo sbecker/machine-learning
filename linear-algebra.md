@@ -63,3 +63,7 @@ In a software library, this one line could look like
 ```
 prediction = dataMatrix * parameters
 ```
+
+## Matrix Matrix Multiplication
+
+Multiply `m x n` matrix (m rows, n columns) by `n x o` matrix (n rows, o columns). Number of **columns** in **first** matrix must match the number of **rows** in the **second** matrix.
