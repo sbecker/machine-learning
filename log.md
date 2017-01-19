@@ -4,6 +4,7 @@
 - Sun - 3hr - Watched 2hr course.fast.ai video, and started this repository
 - Mon - N/A
 - Tue - 30m - Added this log file, fleshing out repo, transferring notes from other sources
+- Wed - 1hr - Started Tools doc, re-watching Coursera Week 1 matrix math videos and creating notes. Can't restart course.fast.ai right now because AWS restricted my p2 instance. Asked for raised instance limit. Interestingly it let me start it last weekend.
 
 ## Week 2 (2017-01 08-14)
 - Sun - 45m - Rewatch Coursera Week 1 intro videos
