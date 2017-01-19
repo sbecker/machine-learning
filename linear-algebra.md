@@ -79,3 +79,7 @@ Process: Take every column of matrix B as a vector and multiply it by matrix A. 
 | 1 1534 |                       | 344 353 464 |
 | 1 852  |                       | 173 285 191 |
 ```
+
+```
+predictions = dataMatrix * parameters (of all hypthoses)
+```
