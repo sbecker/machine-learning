@@ -47,3 +47,14 @@ Multiply a matrix with m rows and n columns by a vector with n rows. Matrix must
 | 2 1 |           |  7 | (2x1 + 1x5 = 7)
 ```
 
+**Trick for calculating all predicted values of a hypthesis in one line of code**
+
+If hypothesis for predicting housing prices from square feet x is `hϴ = -40 x 0.25x` and house sq feet data set is `[2104, 1416, 1534, 852]`, we can do a matrix vector multiplication to calculate all predicted values at once:
+
+```
+
+| 1 2104 |   |  -40 |   |    486 | (-40x1 + 0.25x2104 = 486)
+| 1 1416 | x | 0.25 | = |    314 | (-40x1 + 0.25x1416 = 314)
+| 1 1534 |              |  343.5 | (-40x1 + 0.25x1534 = 343.5)
+| 1 852  |              |    173 | (-40x1 + 0.25x852  = 173)
+```
