@@ -6,6 +6,7 @@
 - Tue - 30m - Added this log file, fleshing out repo, transferring notes from other sources
 - Wed - 1hr - Started Tools doc, re-watching Coursera Week 1 matrix math videos and creating notes. Can't restart course.fast.ai right now because AWS restricted my p2 instance. Asked for raised instance limit. Interestingly it let me start it last weekend.
 - Thu - 1hr - Re-watching matrix math videos and adding notes to linear algebra doc.
+- Fri - 1hr - Read [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) article and [TensorFlow MNIST for ML Beginners](https://www.tensorflow.org/tutorials/mnist/beginners/) tutorial 
 
 ## Week 2 (2017-01 08-14) 2.75 hours
 - Sun - 45m - Rewatch Coursera Week 1 intro videos
