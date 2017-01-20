@@ -14,6 +14,10 @@
 
 - [Torch](http://torch.ch/): A scientific computing framework with wide support for machine learning algorithms that puts GPUs first.
 
+## JavaScript
+
+- [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/): Deep Learning in Your Browser - useful for online experiments, blog articles, etc
+
 ## Multi-Language
 
 - [MXNet](http://mxnet.io/): Flexible and Efficient Library for Deep Learning
