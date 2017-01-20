@@ -4,6 +4,7 @@
 
 - [FastAI: Practical Deep Learning for Coders, Part 1](http://course.fast.ai/)
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
+- [Udacity: Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
 ## Datasets
 
