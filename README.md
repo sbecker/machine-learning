@@ -12,15 +12,11 @@ Many types of work we do today will not be required in 5-10 years. The term "com
 
 The movie [Hidden Figures](https://en.wikipedia.org/wiki/Hidden_Figures) depicts African American women working as "computers who wore skirts" at NASA in the 1960s, and the quick progression to electronic computers (as well as a snapshot of America in the 60s and the Civil Rights movement). It is hugely inspiring, go see it. Towards the end of the movie, the profession of "computer" was obsoleted by the new IBM mainframe and no longer needed. A new profession, "computer programmer" was born. We are at the start of a similar wave, bigger than the internet and as large of an impact on humanity as electricity.
 
-## Terminology
+# Main Pages
 
-Notes on some of the basic concepts of machine learning, to clarify and reinforce my own understanding.
-
-- [Linear Regression](https://github.com/sbecker/machine-learning/blob/master/linear-regression.md)
-- [Gradient Descent](https://github.com/sbecker/machine-learning/blob/master/gradient-descent.md)
-- [Linear Algebra](https://github.com/sbecker/machine-learning/blob/master/linear-algebra.md)
-
-## Misc
-
-- [Resources](https://github.com/sbecker/machine-learning/blob/master/resources.md) - Various resources and links elsewhere
-
+- [Log](https://github.com/sbecker/machine-learning/blob/master/log.md): Log of things done each week and progress
+- [Plan](https://github.com/sbecker/machine-learning/blob/master/log.md): Goal setting for learning, near and longer term 
+- [Terminology](https://github.com/sbecker/machine-learning/blob/master/terminology.md): So many terms, gotta catch em all
+- [Articles](https://github.com/sbecker/machine-learning/blob/master/articles.md): Interesting articles
+- [Tools](https://github.com/sbecker/machine-learning/blob/master/tools.md): A survey of software tools for machine learning
+- [Resources](https://github.com/sbecker/machine-learning/blob/master/resources.md): Various resources and links elsewhere
