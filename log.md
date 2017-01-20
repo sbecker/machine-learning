@@ -1,5 +1,7 @@
 # Log
 
+- Leading Indicator: [Commit Activity](https://github.com/sbecker/machine-learning/graphs/commit-activity)
+
 ## Week 3 (2017-01 15-21) 5.5 hours
 - Sun - 3hr - Watched 2hr course.fast.ai video, and started this repository
 - Mon - N/A
