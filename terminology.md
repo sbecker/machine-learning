@@ -27,7 +27,7 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 - Cost or Loss function: represents how far off our model is from our desired outcome
 - Cross-entropy - measuring how inefficient our predictions are for describing the truth, or - the average length of communicating an event from one distribution with the optimal code for another distribution
 - Logit: The logit function is the inverse of the inverse of the sigmoidal "logistic" function [Wikipedia](https://en.wikipedia.org/wiki/Logit)
-- Backpropogation: reverse-mode differentiation, a technique for calculating derivatives quickly [visual explanation](http://colah.github.io/posts/2015-08-Backprop/) [Wikipedia](https://en.wikipedia.org/wiki/Backpropagation)
+- Backpropogation: reverse-mode differentiation, a technique for calculating derivatives quickly [visual explanation](http://colah.github.io/posts/2015-08-Backprop/) | [Book Chapter Explanation](http://neuralnetworksanddeeplearning.com/chap2.html) | [Wikipedia](https://en.wikipedia.org/wiki/Backpropagation)
 
 ## To Define
 
