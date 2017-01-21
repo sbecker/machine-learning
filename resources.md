@@ -6,9 +6,19 @@
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Udacity: Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
+## Blogs
+
+- [Chris Colah](http://colah.github.io/)
+- [Michael Nielsen](http://michaelnielsen.org/) and [CognitiveMedium](http://cognitivemedium.com/)
+
+## Online Books
+
+- [Deep Learning](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen
+
 ## Datasets
 
-- [MNIST](http://yann.lecun.com/exdb/mnist/) - a popular dataset for benchmarking ML algorithms - a database of handwritten digits - training set of 60k, test set of 10k
+- [MNIST](http://yann.lecun.com/exdb/mnist/) - the "Hello World" of machine learning datasets - a database of handwritten digits - training set of 60k, test set of 10k
 - [ImageNet](http://image-net.org/) - 14.2 million classified images - thousands of categories, ~500 images per category
 
 ## Organizations
