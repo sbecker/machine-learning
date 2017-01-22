@@ -28,11 +28,12 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 - Cross-entropy - measuring how inefficient our predictions are for describing the truth, or - the average length of communicating an event from one distribution with the optimal code for another distribution
 - Logit: The logit function is the inverse of the inverse of the sigmoidal "logistic" function [Wikipedia](https://en.wikipedia.org/wiki/Logit)
 - Backpropogation: reverse-mode differentiation, a technique for calculating derivatives quickly [visual explanation](http://colah.github.io/posts/2015-08-Backprop/) | [Book Chapter Explanation](http://neuralnetworksanddeeplearning.com/chap2.html) | [Wikipedia](https://en.wikipedia.org/wiki/Backpropagation)
+- Multilayer Perceptron (MLP): a mathematical function mapping some set of input values to output values (DL Book). A feedforward artificial neural network model that maps sets of input data onto a set of appropriate outputs. An MLP consists of multiple layers of nodes in a directed graph, with each layer fully connected to the next one. [Wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 
 ## To Define
 
 - Evidence
-- Weights
+- Weight / Synaptic Weight: the strength or amplitude of a connection between two nodes [wikipedia](https://en.wikipedia.org/wiki/Synaptic_weight)
 
 - Linear Discriminant Analysis
 - Learning Vector Quantization
@@ -44,9 +45,14 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 - AdaBoost
 (see http://machinelearningmastery.com/machine-learning-algorithms-mini-course/ for some descriptions)
 
+- Directed Graph
+- Feedforward
+- Neural Network
+- Node: a neuron (or processing element) with a nonlinear activation function
 
 
 ## Articles to Comb for terms
 TODO: Comb through these articles and define all vague or unknown terms
 - [21 Must-Know Machine Learning Interview Questions and Answers](https://elitedatascience.com/machine-learning-interview-questions-answers)
-- [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+- [
+Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
