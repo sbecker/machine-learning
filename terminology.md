@@ -9,7 +9,6 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 - Logistic Regression: Used for binary classification problems - yes or no / is it A or B, etc. uses a sigmoid function (output looks like a big S), snap values to either 0 or 1 output depending on input range.
 - [Kalman Filters](https://github.com/sbecker/machine-learning/blob/master/kalman-filters.md)
 
-
 - Softmax (multinomial logistic) regression - two steps - first we add up the evidence of our input being in certain classes, and then we convert that evidence into probabilities. http://neuralnetworksanddeeplearning.com/chap3.html#softmax
 - Parametric ML algorithms: learning models with a fixed-size set of parameters, independent of number of training examples. Generally have a high bias, fast to learn, easier to understand, less flexible. Lower predictive performance on complex problems do not meet simplifying assumptions of the algorithm's bias. [article](http://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
 - Nonparametric ML algorithms: good when lots of data and no prior knowledge. they do not make strong assumptions about the form of the mapping function [article](http://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
@@ -30,11 +29,12 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 - Logit: The logit function is the inverse of the inverse of the sigmoidal "logistic" function [Wikipedia](https://en.wikipedia.org/wiki/Logit)
 - Backpropogation: reverse-mode differentiation, a technique for calculating derivatives quickly [visual explanation](http://colah.github.io/posts/2015-08-Backprop/) | [Book Chapter Explanation](http://neuralnetworksanddeeplearning.com/chap2.html) | [Wikipedia](https://en.wikipedia.org/wiki/Backpropagation)
 - Multilayer Perceptron (MLP): a mathematical function mapping some set of input values to output values (DL Book). A feedforward artificial neural network model that maps sets of input data onto a set of appropriate outputs. An MLP consists of multiple layers of nodes in a directed graph, with each layer fully connected to the next one. [Wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
+- Weight / Synaptic Weight: the strength or amplitude of a connection between two nodes [wikipedia](https://en.wikipedia.org/wiki/Synaptic_weight)
+- Node: a neuron (or processing element) with a nonlinear activation function
 
 ## To Define
 
 - Evidence
-- Weight / Synaptic Weight: the strength or amplitude of a connection between two nodes [wikipedia](https://en.wikipedia.org/wiki/Synaptic_weight)
 
 - Linear Discriminant Analysis
 - Learning Vector Quantization
@@ -49,7 +49,7 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 - Directed Graph
 - Feedforward
 - Neural Network
-- Node: a neuron (or processing element) with a nonlinear activation function
+- Covariance Matrix
 
 
 ## Articles to Comb for terms
