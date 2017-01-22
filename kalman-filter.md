@@ -17,5 +17,7 @@ The Kalman filter has many uses, including applications in control, navigation, 
 ## References
 
 - [Paper: An Introduction to the Kalman Filter](http://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
+- [How a Kalman Filter Works in Pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 - [YouTube: Michel van Biezen - The Kalman Filter](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT)
 - [Mathworks: Using Kalman Filter for Object Tracking](https://www.mathworks.com/help/vision/examples/using-kalman-filter-for-object-tracking.html)
+- [Mathworks: Motion-based multiple object tracking](https://www.mathworks.com/help/vision/examples/motion-based-multiple-object-tracking.html)
