@@ -7,6 +7,7 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 - Stochastic Gradient Descent: Incremental gradient descent - using small batches of random training data at each training step [wikipedia](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 - [Linear Algebra](https://github.com/sbecker/machine-learning/blob/master/linear-algebra.md)
 - Logistic Regression: Used for binary classification problems - yes or no / is it A or B, etc. uses a sigmoid function (output looks like a big S), snap values to either 0 or 1 output depending on input range.
+- [Kalman Filters](https://github.com/sbecker/machine-learning/blob/master/kalman-filters.md)
 
 
 - Softmax (multinomial logistic) regression - two steps - first we add up the evidence of our input being in certain classes, and then we convert that evidence into probabilities. http://neuralnetworksanddeeplearning.com/chap3.html#softmax
