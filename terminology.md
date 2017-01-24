@@ -75,6 +75,10 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 
 - Dimensionality reduction
 
+- RELU: Rectified Linear Unit
+- Learning Rate Decay
+- Dropout
+
 ## Articles to Comb for terms
 TODO: Comb through these articles and define all vague or unknown terms
 - [Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
