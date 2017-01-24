@@ -5,6 +5,8 @@
 - [FastAI: Practical Deep Learning for Coders, Part 1](http://course.fast.ai/)
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Udacity: Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
+- [Learn TensorFlow and deep learning, without a Ph.D. - 3 hour course](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+
 
 ## Blogs
 
