@@ -2,8 +2,9 @@
 
 - Leading Indicator: [Commit Activity](https://github.com/sbecker/machine-learning/graphs/commit-activity)
 
-## Week 4 (2017-01 22-28) 0.5 hours
+## Week 4 (2017-01 22-28) 1 hours
 - Sun - 30m - Reading about Kalman filters
+- Mon - 30m - Adding more course links and linear algebra resources
 
 ## Week 3 (2017-01 15-21) 8.5 hours
 - Sun - 3hr - Watched 2hr course.fast.ai video, and started this repository
