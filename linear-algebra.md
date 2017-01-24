@@ -101,7 +101,7 @@ Matrix multiplication is associative: `A x (B x C) == (A x B) x C`
 # Resources
 
 - [Coursera ML Class: Linear Algebra Review](https://www.coursera.org/learn/machine-learning/lecture/38jIT/matrices-and-vectors)
-- [Deep Learning Book: Chapter 2: Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html
+- [Deep Learning Book: Chapter 2: Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html)
 - [Deep Learning Book: Lecture Slides](http://www.deeplearningbook.org/slides/02_linear_algebra.pdf)
 - [Khan Academy: Jacobian prerequisite knowledge](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian/v/jacobian-prerequisite-knowledge)
 
