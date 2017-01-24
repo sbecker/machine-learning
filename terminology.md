@@ -76,6 +76,7 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 - Dimensionality reduction
 
 - RELU: Rectified Linear Unit
+- LSTM: Long Short-Term Memory Networks [wikipedia](https://en.wikipedia.org/wiki/Long_short-term_memory)
 - Learning Rate Decay
 - Dropout
 
