@@ -7,6 +7,8 @@
 - [Udacity: Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 - [Udacity: Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) - Intermediate/Advanced
 - [Google: Learn TensorFlow and deep learning, without a Ph.D. - 3 hour course](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+
+- [Caltech: Machine Learning Course - CS 156](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 - [Stanford: CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) - [Videos](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG) - [Syllabus](http://cs231n.stanford.edu/syllabus.html) - [Slides](https://drive.google.com/drive/u/1/folders/0B62MBK9B2knSY3ZmeHktSEhJNXM)
 - [Stanford: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [Stanford: CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html)
