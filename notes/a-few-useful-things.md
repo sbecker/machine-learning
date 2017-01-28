@@ -87,3 +87,43 @@ Learning is more like farming, which lets nature do most of the work.
 
 Farmers combine seeds with nutrients to grow crops. Learners combine knowledge with data to grow programs.
 
+## 5. Overfitting has many faces
+
+If knowledge and data are not sufficient to determine the correct classifier, we run the risk of hallucinating a classifier not grounded in reality, and is simply encoding random quirks in the data. This is called **overfitting**.
+
+When your learner outputs a classifier that is 100% accurate on the training data but only 50% accurate on test data, when in fact it could have output one that is 75% accurate on both, it has overfit.
+
+Generalization error can be decompsed into **bias** and **variance**.
+
+**Bias** is a learner’s tendency to consistently learn the same wrong thing ~ underfitting
+
+**Variance**  is the tendency to learn random things irrespective of the real signal ~ overfitting
+
+Contrary to intuition, a more powerful learner is not necessarily better than a less powerful one.
+
+Situations like this are common in machine learning: strong false assumptions can be better than weak true ones, because a learner with the latter needs more data to avoid overfitting.
+
+### Methods to combat overfitting
+
+1. Cross-validation can help to combat overfitting, but if we use it to make too many parameter choices it can itself start to overfit.
+
+2. Adding a *regularization term* to the evaluation function. Can penalize classifiers with more structure, favoring smaller ones with less room to overfit.
+
+3. perform a statistical significance test like chi-square before adding new structure, to decide whether the distribution of the class really is different with and without this structure
+
+Be skeptical of claims that a particular technique “solves” the overfitting problem.
+
+It's easy to avoid overfitting (variance) by falling into the opposite error of underfitting (bias).
+
+Simultaneously avoiding both requires learning a perfect classifier, and short of knowing it in advance there is no single technique that will always do best (no free lunch).
+
+Severe overfitting can occur even in the absence of noise. 
+
+The problem of multiple testing.  What looks significant may in fact not be. Example: trend graph showing correlation between 
+letters in winning word of spelling bee correlated with number of people killed by spiders - clear similarity in trends is a coincidence. If many data series are compared, similarly convincing but coincidental data may be obtained. [link](https://en.wikipedia.org/wiki/Multiple_comparisons_problem#/media/File:Spurious_correlations_-_spelling_bee_spiders.svg)
+
+A mutual fund that beats the market ten years in a row looks very impressive, until you realize that, if there are 1000 funds and each has a 50% chance of beating the market on any given year, it’s quite likely that one will succeed all ten times just by luck.
+
+Combat the problem by controlling the fraction of falsely accepted non-null hypotheses, known as the "false discovery rate".
+
+## 6. Intuition fails in high dimensions
