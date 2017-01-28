@@ -214,8 +214,47 @@ Features that look irrelevant in isolation may be relevant in combination.
 
 There is ultimately no replacement for the smarts you put into feature engineering.
 
+## 9. More data beats a cleverer algorithm
+
+Pragmatically the quickest path to success is often to just get more data.
+
+A rule of thumb: a dumb algorithm with lots and lots of data beats a clever one with modest amounts of it. 
+
+Machine learning is all about letting data do the heavy lifting.
+
+**Scalability**: In most of computer science, the two main limited resources are time and memory. In machine learning, there is a third one: training data.
+
+- In the 1980s, limiting factor was data.
+- Today it tends to be time. Lots of data, not enough time to process it, goes unused.
+
+Paradox: even though in principle more data means that more complex classifiers can be learned, in practice simpler classifiers wind up being used, because complex ones take too long to learn.
+
+Part of the reason using cleverer algorithms has a smaller payoff: at first approximation, they all do the same.
+
+All learners essentially work by grouping nearby examples into the same class; the key difference is in the meaning of "nearby."
+
+As a rule, it pays to try the simplest learners first (e.g., naive Bayes before logistic regression, k-nearest neighbor before support vector machines).
+
+More sophisticated learners are seductive, but they are usually harder to use, because they have more knobs you need to turn to get good results, and because their internals are more opaque.
+
+Learners can be divided into two major types
+- those whose representation has a fixed size, like linear classifiers
+- those whose representation can grow with the data, like decision trees.
+
+Fixed-size learners can only take advantage of so much data.
+
+Variable-size learners can in principle learn any function given sufficient data, but in practice they may not, because of limitations of the algorithm or computational cost.
+
+Clever algorithms - those that make the most of the data and computing resources available—often pay off in the end, provided you’re willing to put in the effort.
+
+Machine learning projects often wind up having a significant component of learner design, and practitioners need to have some expertise in it.
+
+The biggest bottleneck is not data or CPU cycles, but human cycles. The human effort saved and insight gained, is often more important than accuracy and computational cost.
+
+**The organizations that make the most of machine learning are those that have in place an infrastructure that makes experimenting with many different learners, data sources and learning problems easy and efficient, and where there is a close collaboration between machine learning experts and application domain ones.**
+
+
 # Remaining sections to summarize
-- 9. More data beats a cleverer algorithm
 - 10. Learn many models, not just one
 - 11. Simplicity does not imply accuracy
 - 12. Representable does not imply learnable
