@@ -253,6 +253,27 @@ The biggest bottleneck is not data or CPU cycles, but human cycles. The human ef
 
 **The organizations that make the most of machine learning are those that have in place an infrastructure that makes experimenting with many different learners, data sources and learning problems easy and efficient, and where there is a close collaboration between machine learning experts and application domain ones.**
 
+## 10. Learn many models, not just one
+
+Early days of ML, everyone had their favorite learner. Then data showed the best learner varies from one application to another. Then researchers noticed if we combine many variations, the results are often much better, at little extra cost.
+
+**Ensemble modeling** is the process of running two or more related but different analytical models and then synthesizing the results into a single score or spread in order to improve the accuracy of predictive analytics and data mining applications. [wikipedia](https://en.wikipedia.org/wiki/Ensemble_learning)
+
+Ensemble modeling techniques
+
+- **Bagging**: generate random variations of the training set by resampling, learn a classifier on each, and combine the results by voting. This works because it greatly reduces variance while only slightly increasing bias.
+
+- **Boosting**: training examples have weights, and these are varied so that each new classifier focuses on the examples the previous ones tended to get wrong
+
+- **Stacking**: outputs of individual classifiers become the inputs of a “higher-level” learner that figures out how best to combine them
+
+The winner and runner up of the Netflix prize were both stacked ensembles of over 100 learners. Combining the two ensembles produced even better results.
+
+Model ensembles should not be confused with Bayesian model averaging (BMA).
+
+**Bayesian model averaging**:  the theoretically optimal approach to learning.  In BMA, predictions on new examples are made by averaging the individual predictions of all classifiers in the hypothesis space, weighted by how well the classifiers explain the training data and how much we believe in them *a priori.*
+
+While model ensembles are a key part of the machine learning toolkit, BMA is seldom worth the trouble.
 
 # Remaining sections to summarize
 - 10. Learn many models, not just one
