@@ -158,3 +158,24 @@ In most applications examples are not spread uniformly throughout the instance s
 
 1. Learners can implicitly take advantage of this lower effective dimension
 2. Algorithms for explicitly reducing the dimensionality can be used
+
+## 7. Theoretical guarantees are not what they seem
+
+Machine learning papers are full of theoretical guarantees.
+
+Most common type: a bound on the number of examples needed to ensure good generalization
+
+Conventional wisdom: in deduction you can guarantee conclusions are correct; in induction all bets are of
+
+One of the major developments of recent decades has been the realization that in fact we can have guarantees on the results of induction, particularly if we’re willing to settle for probabilistic guarantees.
+
+Guarantees of this type have to be taken with a large grain of salt.
+
+Most interesting hypothesis spaces are doubly exponential in the number of features d, which still leaves us needing a number of examples exponential in d.
+
+If there are 100 Boolean features and the hypothesis space is decision trees with up to 10 levels, to guarantee δ = ǫ = 1% in the bound above we need half a million examples. But in practice a small fraction of this suffices for accurate learning.
+
+The main role of theoretical guarantees in machine learning is not as a criterion for practical decisions, but as a source of understanding and driving force for algorithm design.
+
+The close interplay of theory and practice is one of the main reasons machine learning has made so much progress over the years. But caveat emptor: learning is a complex phenomenon, and just because a learner has a theoretical justification and works in practice doesn’t mean the former is the reason for the latter
+
