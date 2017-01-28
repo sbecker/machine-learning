@@ -275,11 +275,48 @@ Model ensembles should not be confused with Bayesian model averaging (BMA).
 
 While model ensembles are a key part of the machine learning toolkit, BMA is seldom worth the trouble.
 
-# Remaining sections to summarize
-- 10. Learn many models, not just one
-- 11. Simplicity does not imply accuracy
-- 12. Representable does not imply learnable
-- 13. Correlation does not imply causation
+## 11. Simplicity does not imply accuracy
+Occam’s razor famously states that entities should not be multiplied beyond necessity. [wikipedia](https://en.wikipedia.org/wiki/Occam's_razor) Simpler theories are preferable to more complex ones because they are more testable.
+
+Assumption: given two classifiers with the same training error, the simpler of the two will likely have the lowest test error
+
+Wrong: there are many counterexamples to it, and the “no free lunch” theorems imply it cannot be true
+
+Examples
+- model ensembles
+- support vector machines: can effectively have an infi- nite number of parameters without overfitting
+
+There is no necessary connection between the number of parameters of a model and its tendency to overfit
+
+More sophisticated view instead equates complexity with the size of the hypothesis space.
+
+Conclusion is that simpler hypotheses should be preferred because simplicity is a virtue in its own right, not because of a hypothetical connection with accuracy.
+
+## 12. Representable does not imply learnable
+
+Just because a function can be represented does not mean it can be learned.
+
+Example:
+- standard decision tree learners cannot learn trees with more leaves than there are training examples
+
+The key question is not “Can it be represented?”, to which the answer is often trivial, but “Can it be learned?” And it pays to try different learners (and possibly combine them).
+
+Using a representation with more layers (i.e., more steps between input and output), parity can be encoded in a linear-size classifier.
+
+Finding methods to learn these deeper representations is one of the major research frontiers in machine learning..
+
+## 13. Correlation does not imply causation
+
+More often than not, the goal of learning predictive models is to use them as guides to action. 
+
+A famous example in the world of data mining: If we find that beer and diapers are often bought together at the supermarket, then perhaps putting beer next to the diaper section will increase sales.
+
+Machine learning is usually applied to *observational data*, where the predictive variables are not under the control of the learner, as opposed to *experimental data*, where they are
+
+Practical points for machine learning:
+
+- Whether or not we call them "causal," we would like to predict the effects of our actions, not just correlations between observable variables. 
+- If you can obtain experimental data (for example by randomly assigning visitors to different versions of a Web site), then by all means do so.
 
 ## 14. Conclusion
 ML has a lot of "folk wisdom" that can be hard to come by, but is crucial for success.
