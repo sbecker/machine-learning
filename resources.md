@@ -15,6 +15,7 @@
 - [University of Oxford - Machine Learning 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 - [UC Berkeley - CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 
+- [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
 
 ## Blogs
 
