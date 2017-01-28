@@ -127,3 +127,34 @@ A mutual fund that beats the market ten years in a row looks very impressive, un
 Combat the problem by controlling the fraction of falsely accepted non-null hypotheses, known as the "false discovery rate".
 
 ## 6. Intuition fails in high dimensions
+
+After overfitting, the biggest problem in machine learning is the *curse of dimensionality*. [wikipedia](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
+
+Refers to various phenomena that arise when analyzing and organizing data in high-dimensional spaces (often with hundreds or thousands of dimensions) that do not occur in low-dimensional settings such as the three-dimensional physical space of everyday experience.
+
+Translation: certain learning algorithms may perform poorly in high-dimensional data [link: quora](https://www.quora.com/What-is-the-curse-of-dimensionality)
+
+Generalizing correctly becomes exponentially harder as the dimensionality (number of features) of the examples grows, because a fixed-size training set covers a dwindling fraction of the input space
+
+More features = more combinations = smaller % of training data compared to possibilities
+
+The similarity-based reasoning that machine learning algorithms depend on (explicitly or implicitly) breaks down in high dimensions
+
+In high dimensions all examples look alike
+
+Our intuitions, which come from a three-dimensional world, often do not apply in high-dimensional ones.
+
+In high dimensions, most of the mass of a multivariate Gaussian distribution is not near the mean, but in an increasingly distant “shell” around it; most of the volume of a high-dimensional orange is in the skin, not the pulp.
+
+Building a classifier in two or three dimensions is easy = can see whats going on by visual inspection.
+
+In higher dimensions it's hard to understand whats happening - can't easily visualize it.
+
+### Blessing of Non-uniformity
+
+This effect partly counteracts the curse of dimensionality.
+
+In most applications examples are not spread uniformly throughout the instance space, but are concentrated on or near a lower-dimensional manifold.
+
+1. Learners can implicitly take advantage of this lower effective dimension
+2. Algorithms for explicitly reducing the dimensionality can be used
