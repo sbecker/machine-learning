@@ -55,3 +55,35 @@ Can be mitigated by doing cross-validation.
 
 **Cross-validation**: Randomly dividing data into subsets, holding out each while training on the rest, testing each learned classifier on the examples it didn't see, and averaging the results to see how well the parameter setting does.
 
+## 4. Data alone is not enough
+
+Every learner must embody some knowledge or assumptions beyond the data it’s given in order to generalize beyond it.
+
+This was formalized by Wolpert in his famous “no free lunch” theorems, according to which no learner can beat random guessing over all possible functions to be learned.
+
+Very general assumptions are often enough to do very well, and this is a large part of why machine learning has been so successful.
+
+General assumptions
+- smoothness
+- similar examples having similar classes
+- limited dependences
+- limited complexity
+
+One of the key criteria for choosing a representation is which kinds of knowledge are easily expressed in it.
+
+If we have a lot of knowledge about...
+- what makes examples similar in our domain, instance based methods may be a good choice.
+- probabilistic dependencies, graphical models are a good fit.
+- what kinds of preconditions are required by each class, “IF . . . THEN . . .” rules may be the the best option
+
+Most useful learners are those that don’t just have assumptions hard-wired into them, but:
+- allow us to state them explicitly
+- vary them widely
+- incorporate them automatically into the learning
+
+Programming, like all engineering, is a lot of work: we have to build everything from scratch.
+
+Learning is more like farming, which lets nature do most of the work. 
+
+Farmers combine seeds with nutrients to grow crops. Learners combine knowledge with data to grow programs.
+
