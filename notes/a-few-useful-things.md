@@ -39,3 +39,19 @@ The key is to realize that it consists of combinations of just three components:
 - The day may not be far when every single possible combination has appeared in some learner
 
 - Most textbooks are organized by representation. The other components are equally important.
+
+## 3. It's generalization that counts
+
+The fundamental goal of machine learning is to generalize beyond the examples in the training set.
+
+The most common mistake among machine learning beginners is to test on the training data and have the illusion of success.
+
+You need to keep training data and test data separate.
+
+Set some of the data aside from the beginning, and only use it to test your chosen classifier at the very end, followed by
+learning your final classifier on the whole data.
+
+Can be mitigated by doing cross-validation.
+
+**Cross-validation**: Randomly dividing data into subsets, holding out each while training on the rest, testing each learned classifier on the examples it didn't see, and averaging the results to see how well the parameter setting does.
+
