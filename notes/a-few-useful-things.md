@@ -179,3 +179,38 @@ The main role of theoretical guarantees in machine learning is not as a criterio
 
 The close interplay of theory and practice is one of the main reasons machine learning has made so much progress over the years. But caveat emptor: learning is a complex phenomenon, and just because a learner has a theoretical justification and works in practice doesn’t mean the former is the reason for the latter
 
+## 8. Feature engineering is the key
+
+Most important factor in success/failure of machine learning projects is the features used.
+Typically where most of the effort in a machine learning project goes.
+Intuition, creativity and “black art” are as important as the technical stuf
+
+- many independent features that each correlate well with the class, learning is easy
+- if the class is a very complex function of the features, you may not be able to learn it
+
+Often, raw data is not in a form amenable to learning, but you can construct features from it that are.
+
+Little time in a machine learning project is spent doing actual machine learning. 
+
+More time is spent:
+- gathering data
+- integrating it
+- cleaning it
+- pre-process it
+- trial and error of feature design
+
+Machine learning projects are not a one-shot process of building a data set and running a learner, but rather an iterative
+process of running the learner, analyzing the results, modifying the data and/or the learner, and repeating.
+
+Feature engineering is more difficult because it’s domain-specific, while learners can be largely general-purpose.
+
+The most useful learners are those that facilitate incorporating knowledge.
+
+One of the holy grails of machine learning is to automate more and more of the feature engineering process.
+
+Often done by generating large numbers of candidate features, selecting the best by information gain with respect to the class.
+
+Features that look irrelevant in isolation may be relevant in combination.
+
+There is ultimately no replacement for the smarts you put into feature engineering.
+
