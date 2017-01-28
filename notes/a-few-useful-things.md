@@ -214,3 +214,17 @@ Features that look irrelevant in isolation may be relevant in combination.
 
 There is ultimately no replacement for the smarts you put into feature engineering.
 
+# Remaining sections to summarize
+- 9. More data beats a cleverer algorithm
+- 10. Learn many models, not just one
+- 11. Simplicity does not imply accuracy
+- 12. Representable does not imply learnable
+- 13. Correlation does not imply causation
+
+## 14. Conclusion
+ML has a lot of "folk wisdom" that can be hard to come by, but is crucial for success.
+
+- A good place to learn more is my book The Master Algorithm, a non-technical introduction to machine learning.
+- For a complete online machine learning course, check out http://www.cs.washington.edu/homes/pedrod/class
+- There is also a treasure trove of machine learning lectures at http://www.videolectures.net
+- A widely used open source machine learning toolkit is [Weka](http://www.cs.waikato.ac.nz/ml/weka/index.html)
