@@ -29,7 +29,8 @@ The key is to realize that it consists of combinations of just three components:
 
 **Optimization**: A method to search among the classifiers for the highest scoring one. The choice of optimization technique is key to the efficiency of the learner. Helps determine classifier produced if evaluation function has more than one optimum. New learners typically start with off the shelf optimizers and later replace them with custom-designed ones.
 
---- put image here ---
+<a href="http://matroid.com/scaledml/slides/jeff.pdf" target="_blank"><img src="https://github.com/sbecker/machine-learning/blob/master/images/three-components-of-learning-algorithms.png?raw=true" alt="Three Components of Learning Algorithms" width="600" /></a>
+
 
 - Not all combinations of the three components make sense.
 - Discrete representations naturally go with combinatorial optimization
