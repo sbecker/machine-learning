@@ -13,6 +13,7 @@
 - [Stanford: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [Stanford: CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html)
 - [University of Oxford - Machine Learning 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+- [University of Oxford - Deep Natural Language Processing 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [UC Berkeley - CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 
 - [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
