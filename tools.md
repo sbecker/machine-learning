@@ -13,6 +13,7 @@
 ## Lua
 
 - [Torch](http://torch.ch/): A scientific computing framework with wide support for machine learning algorithms that puts GPUs first.
+- [ResNeXt](https://github.com/facebookresearch/ResNeXt): Torch-based image classification and object detection
 
 ## JavaScript
 
