@@ -11,3 +11,7 @@
 ## Tools
 - [Being a Data Scientist: My Experience and Toolset](https://jeffersonheard.github.io/2017/01/being-a-data-scientist-my-experience-and-toolset/)
 
+## Tutorials
+
+- [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
+- [TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/) - Recognizing CalTrains
