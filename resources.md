@@ -41,7 +41,15 @@
 
 ## Compilations
 
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [Awesome Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
+- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
+- [All The Awesome Lists](https://github.com/sindresorhus/awesome)
+
 
 ## Competitions / Learning Platforms
 
