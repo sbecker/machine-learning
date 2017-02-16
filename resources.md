@@ -39,6 +39,10 @@
 - [Google Brain](https://research.google.com/teams/brain/)
 - [OpenAI](https://openai.com)
 
+## Compilations
+
+- [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+
 ## Competitions / Learning Platforms
 
 - [Kaggle](https://www.kaggle.com/): runs competitions, hosts datasets, tutorials and discussion forums
