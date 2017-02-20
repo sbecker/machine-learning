@@ -6,4 +6,4 @@ Catch all for things I see online that I don't have time to read this moment but
   - [Related Paper](https://storage.googleapis.com/deepmind-media/papers/multi-agent-rl-in-ssd.pdf)
   - [HN Discussion](https://news.ycombinator.com/item?id=13634789)
 - [Predicting gentrification using longitudinal census data](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/)
-- [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
+- [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf) - from 1998 - [HN Discussion](https://news.ycombinator.com/item?id=13683734)
