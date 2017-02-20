@@ -2,6 +2,18 @@
 
 - Leading Indicator: [Commit Activity](https://github.com/sbecker/machine-learning/graphs/commit-activity)
 
+## Week 8 (2017-02 19-25) - .3 hours
+- Sun - 20m - Watched [Getting Started with Deep Learning using Keras and Python](https://www.safaribooksonline.com/oriole/getting-started-with-deep-learning-using-keras-and-python)
+
+## Week 7 (2017-02 12-18)
+- Off
+
+## Week 6 (2017-02 05-11)
+- Off
+
+## Week 5 (2017-01-29 - 02-04)
+- Off
+
 ## Week 4 (2017-01 22-28) 4.25 hours
 - Sun - 30m - Reading about Kalman filters
 - Mon - 30m - Adding more course links and linear algebra resources
