@@ -10,6 +10,9 @@
 - [PyTorch](http://pytorch.org/): GPU accelerated deep learning framework for Python
 - [Theano](http://www.deeplearning.net/software/theano/index.html): Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
 
+- [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) Python implementations of various Machine Learning models and algorithms from scratch.
+- [Machine learning algorithms](https://github.com/rushter/MLAlgorithms) A collection of minimal and clean implementations of machine learning algorithms.
+
 ## Lua
 
 - [Torch](http://torch.ch/): A scientific computing framework with wide support for machine learning algorithms that puts GPUs first.
