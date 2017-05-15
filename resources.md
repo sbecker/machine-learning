@@ -27,6 +27,7 @@
 
 - [Deep Learning](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen
+- [AI Playbook](http://aiplaybook.a16z.com/) - Andressen Horowitz - Higher level, what can my biz do with AI
 
 ## Datasets
 
