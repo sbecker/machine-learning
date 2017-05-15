@@ -28,6 +28,8 @@
 - [Deep Learning](http://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen
 - [AI Playbook](http://aiplaybook.a16z.com/) - Andressen Horowitz - Higher level, what can my biz do with AI
+  - [AI Primer](http://a16z.com/2016/06/10/ai-deep-learning-machines/)
+  - [The Promise of AI](https://vimeo.com/215926017)
 
 ## Datasets
 
