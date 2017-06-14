@@ -66,5 +66,5 @@
 
 ## Reference
 
-- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Cheatsheets for various ML stuff
+- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Cheatsheets for various ML libraries
 - [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
