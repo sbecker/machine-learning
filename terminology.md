@@ -57,7 +57,7 @@ Notes on some of the basic concepts of machine learning, to clarify and reinforc
 - Linear Discriminant Analysis
 - Learning Vector Quantization
 - K-Nearest Neighbors
-- Support Vector Machines
+- Support Vector Machines - https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
 - Bagging
 - Random Forest
 - Boosting
