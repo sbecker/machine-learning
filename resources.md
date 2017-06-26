@@ -53,6 +53,8 @@
 
 - [All The Awesome Lists](https://github.com/sindresorhus/awesome)
 
+- [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+
 
 ## Competitions / Learning Platforms
 
